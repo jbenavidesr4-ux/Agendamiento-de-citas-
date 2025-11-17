@@ -1,3 +1,5 @@
+## Propuesta de Mantenimiento
+Para este caso, se propone aplicar un mantenimiento progresivo que incluya mantenimiento correctivo, adaptativo y perfectivo, garantizando que el sistema funcione correctamente, se mantenga compatible con los nuevos entornos tecnológicos y evolucione según las necesidades del usuario.
 ## 1. Mantenimiento Correctivo
 
 # Objetivo:
@@ -59,3 +61,4 @@ Mejorar la velocidad de carga del calendario y la navegación, especialmente cua
 
 # Beneficio:
 Aumenta la satisfacción del usuario, mejora el rendimiento del sistema y agrega funciones que incrementan la productividad y valor de la aplicación.
+
